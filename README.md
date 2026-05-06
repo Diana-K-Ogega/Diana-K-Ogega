@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Diana
 
-<!--
-**Diana-K-Ogega/Diana-K-Ogega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial crime specialist focused on transaction monitoring, fraud detection, and AML investigations.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Transaction Monitoring and Suspicious Activity Analysis
+- Fraud Detection & Behavioral Risk Analytics
+- AML Compliance and Risk Scoring Analytics
+- Machine Learning for Predictive Modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python | SQL | Machine Learning | Data Analysis | OSINT
+
+## Tools
+Excel | Power BI | Alteryx | yEd
+
+## Projects
+- AML Rule Engine 
+- KYC/CDD Risk Scoring
+- Power BI AML Dashboard
+- Network/Entity Link Analysis
+- Alteryx AML Workflow
+- OSINT Automation Tool
+- Excel Fraud Scorecard
+
+## Currently Building
+FinCrime analytics portfolio using real-world fraud and AML datasets.
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/yourname  
+Kaggle: https://www.kaggle.com/yourusername
