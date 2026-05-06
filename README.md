@@ -27,5 +27,5 @@ Excel | Power BI | Alteryx | yEd
 FinCrime analytics portfolio using real-world fraud and AML datasets.
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/yourname  
-Kaggle: https://www.kaggle.com/yourusername
+LinkedIn: https://www.linkedin.com/in/diana-k-ogega/
+Kaggle: https://www.kaggle.com/dianakogega
