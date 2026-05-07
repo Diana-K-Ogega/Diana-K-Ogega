@@ -1,6 +1,6 @@
 # Hi, I'm Diana
 
-Financial crime specialist focused on transaction monitoring, fraud detection, and AML investigations.
+Financial crime specialist focused on transaction monitoring, anomaly detection and predictive modelling.
 
 ## Focus Areas
 - Transaction Monitoring and Suspicious Activity Analysis
