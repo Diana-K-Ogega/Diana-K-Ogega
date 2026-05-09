@@ -1,6 +1,6 @@
 # Hi, I'm Diana
 
-I use intelligence and investigations to detect, analyse, and help prevent financial crime.
+I detect, analyse, and help prevent financial crime.
 
 ## Focus Areas
 - Transaction Monitoring and Suspicious Activity Analysis
