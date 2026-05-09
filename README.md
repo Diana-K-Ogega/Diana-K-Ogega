@@ -1,6 +1,6 @@
 # Hi, I'm Diana
 
-I specialise in addressing financial crime through intelligence and investigations
+I use intelligence and investigations to detect, analyse, and help prevent financial crime.
 
 ## Focus Areas
 - Transaction Monitoring and Suspicious Activity Analysis
