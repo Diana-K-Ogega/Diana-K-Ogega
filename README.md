@@ -1,6 +1,6 @@
 # Hi, I'm Diana
 
-Financial crime specialist focused on transaction monitoring, anomaly detection and predictive modelling.
+I specialise in addressing financial crime through intelligence and investigations
 
 ## Focus Areas
 - Transaction Monitoring and Suspicious Activity Analysis
@@ -9,7 +9,7 @@ Financial crime specialist focused on transaction monitoring, anomaly detection 
 - Machine Learning for Predictive Modelling
 
 ## Skills
-Python | SQL | Machine Learning | Data Analysis | OSINT
+Python | SQL | Machine Learning | Forensic Data Analysis | OSINT
 
 ## Tools
 Excel | Power BI | Alteryx | yEd
